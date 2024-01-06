@@ -1,4 +1,4 @@
-## 👨🏻‍🦱 Js Park is ...
+## 👨🏻‍🦱 Junseong Park
 
 - Frontend developer in South Korea 🇰🇷
 - Translator of [Astro](https://docs.astro.build/ko/getting-started/) and [Starlight](https://starlight.astro.build/ko/) Docs 🌐
