@@ -5,7 +5,7 @@
 
 [![@jsparkdev Astro contributions](https://astro.badg.es/v2/contributor/jsparkdev.svg)](https://astro.badg.es/contributor/jsparkdev/)
 
-## 🛠️ Skills
+## 🛠️ I use
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -23,8 +23,6 @@
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="3" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=remix" height="40" alt="remix logo"  />
   <img width="3" />
