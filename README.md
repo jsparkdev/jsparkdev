@@ -1,1 +1,1 @@
-I use [Astro](https://astro.build) and [Remix](https://remix.run).
+I use [React](https://react.dev/), [Vite](https://vitejs.dev/), [Remix](https://remix.run) and [Astro](https://astro.build).
